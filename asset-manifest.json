@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/todo-redux-react-todopanel/static/css/main.e89ec112.chunk.css",
+    "main.js": "/todo-redux-react-todopanel/static/js/main.8f6b4a8e.chunk.js",
+    "main.js.map": "/todo-redux-react-todopanel/static/js/main.8f6b4a8e.chunk.js.map",
+    "runtime-main.js": "/todo-redux-react-todopanel/static/js/runtime-main.ce607c63.js",
+    "runtime-main.js.map": "/todo-redux-react-todopanel/static/js/runtime-main.ce607c63.js.map",
+    "static/css/2.14c36052.chunk.css": "/todo-redux-react-todopanel/static/css/2.14c36052.chunk.css",
+    "static/js/2.a08ad3be.chunk.js": "/todo-redux-react-todopanel/static/js/2.a08ad3be.chunk.js",
+    "static/js/2.a08ad3be.chunk.js.map": "/todo-redux-react-todopanel/static/js/2.a08ad3be.chunk.js.map",
+    "index.html": "/todo-redux-react-todopanel/index.html",
+    "static/css/2.14c36052.chunk.css.map": "/todo-redux-react-todopanel/static/css/2.14c36052.chunk.css.map",
+    "static/css/main.e89ec112.chunk.css.map": "/todo-redux-react-todopanel/static/css/main.e89ec112.chunk.css.map",
+    "static/js/2.a08ad3be.chunk.js.LICENSE.txt": "/todo-redux-react-todopanel/static/js/2.a08ad3be.chunk.js.LICENSE.txt",
+    "static/media/ali.91918f21.jpg": "/todo-redux-react-todopanel/static/media/ali.91918f21.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce607c63.js",
+    "static/css/2.14c36052.chunk.css",
+    "static/js/2.a08ad3be.chunk.js",
+    "static/css/main.e89ec112.chunk.css",
+    "static/js/main.8f6b4a8e.chunk.js"
+  ]
+}
