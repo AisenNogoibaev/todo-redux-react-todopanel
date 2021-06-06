@@ -99,4 +99,6 @@ body {
 }
 .avatar img{
   border: solid red ;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
